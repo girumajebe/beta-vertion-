@@ -1,4 +1,4 @@
-.TH hsh 1 "July 19, 2017" "1.0" "hsh General Commands Manual"
+.TH hsh 1 "April  14 , 2021" "1.0" "hsh General Commands Manual"
 
 .SH NAME
 
@@ -125,9 +125,9 @@ Please report any issues to the authors.
 
 .SH AUTHOR
 
-Alexa Orrico <alexa.orrico@holbertonschool.com>
-
-John Cottrell <johnpcottrell@gmail.com>
+Girum Ajebe <girumajebe@gmail.com>
+Peter Ngugi <peter.ngugi@mail.com>
+Nathan Mathewos <nathanm5266@gmail.com>
 
 .SH SEE ALSO
 sh
